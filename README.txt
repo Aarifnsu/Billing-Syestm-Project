@@ -1,23 +1,30 @@
-                     
-1. Project title/idea  Restaurant billing system.
 
-2. features/functionalities of the project
+App name: Restaurant billing system.
 
-                      category food item
-                      food list(Sub branch) in category
-                      Select food.
-                      select Amount food food
-                      Price of food.
-                      food cost
-                      select multiple food
-                      total food price
-                       Payment option
-                      total amount of taka
-                      reset and Exit
+Description:Restaurant billing system is one of the most important investment decisions for restaurant today it makes easier and faster for both customer and seller. 
+Type of app: Stand-alone application for desktop and laptop computers
+
+Main features:
+
+- View all food items
+- view food items price
+- Create order
+- Choice multiple food (Click Option)
+- Choice food Item Quantity.
+- Total Cost of all ordered food bill
+- Create bill report
+- Bbill report print
+- Reset User food order
+- Exit otion from order manue.
+
+Operating system: Windows/Linux/Mac OS
+
+Written in: java
 
 
 
+Developers: 
+Md.Ariful Islam (1520244042) [ CSE327 Section 6 ]
 
-3. Team information
-		    Md.Ariful Islam
-                    ID 1520244042
+
+
