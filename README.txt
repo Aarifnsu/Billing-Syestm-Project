@@ -26,7 +26,7 @@ Written in: java
 Developers: 
 Md.Ariful Islam (1520244042) [ CSE327 Section 6 ]
 Maksudul Islam Chowdhury (1530169642) [ CSE327 Section 6 ]
-MD.Tamim Hasan (1521032042) [ CSE327 Section 6 ]
+
 
 
 
